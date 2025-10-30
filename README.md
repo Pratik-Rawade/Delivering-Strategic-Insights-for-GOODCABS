@@ -109,7 +109,7 @@ It helps GoodCabs:
 
 ## 📷 Dashboard Preview  
 
-👉[Dashboard Screenshot](#)
+👉[Dashboard Screenshot]
 <img width="1354" height="740" alt="Screenshot (226)" src="https://github.com/user-attachments/assets/6e982c19-ba5b-4e0b-b601-36f00d6004d2" />
 <img width="1344" height="746" alt="Screenshot (227)" src="https://github.com/user-attachments/assets/d505ee16-5560-44da-b36f-c8912edd5640" />
 <img width="1250" height="741" alt="Screenshot (228)" src="https://github.com/user-attachments/assets/8eac4c9e-74a2-4d7e-b746-8e2b3fcd4e51" />
@@ -118,7 +118,7 @@ It helps GoodCabs:
 ---
 
 ## 📎 Power BI Report 
-👉 [View Interactive Dashboard](#) (https://app.powerbi.com/groups/me/reports/14b73d90-8375-469b-8226-0fdc16a36371?experience=power-bi)
+👉 [View Interactive Dashboard] (https://app.powerbi.com/groups/me/reports/14b73d90-8375-469b-8226-0fdc16a36371?experience=power-bi)
 
 ---
 
